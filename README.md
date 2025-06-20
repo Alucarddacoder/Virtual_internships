@@ -29,7 +29,7 @@ These interships are hosted on  [theforage.com](https://www.theforage.com/)
 [Materials](https://github.com/Alucarddacoder/Virtual_internships/tree/main/PA)
 ---
 *	Completed a simulation focused on identifying cybersecurity threats at ANZ
-*	Investigated e-mails to report suspicious items
+*	Investigated e-mails to report suspicious items, [Email report](https://github.com/Alucarddacoder/Virtual_internships/tree/main/Email%20investigation)
 *	Analyzed a Packet Capture file using an open-source tool to identify and investigate any potential threats
 
 # Datacom Cybersecurity Job Simulation on Forage - June 2025
