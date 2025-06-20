@@ -3,12 +3,13 @@
 These interships are hosted on  [theforage.com](https://www.theforage.com/)
 
 # Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage - June 2025
+[Materials](https://github.com/Alucarddacoder/Virtual_internships/blob/main/Fraud%20Detection%20Dashboard.pdf)
 ---
 * Completed a job simulation involving the role of a cybersecurity generalist, specializing in fraud detection and prevention for Commonwealth Bank's Cybersecurity team.
 * Developed skills in building data visualization dashboards using Splunk to uncover patterns and insights in historical customer data, aiding in fraud detection.
 * Demonstrated the ability to respond effectively to cybersecurity incidents, including notifying relevant teams, collecting information, containing and stopping attacks, and aiding in recovery efforts.
 * Enhanced security awareness expertise by designing infographics promoting best practices for secure password management, following Australian Cybersecurity Centre advice.
-  * Acquired practical experience in penetration testing, assessing the security of web applications, identifying vulnerabilities, and providing recommendations for remediation to bolster cybersecurity defenses.
+* Acquired practical experience in penetration testing, assessing the security of web applications, identifying vulnerabilities, and providing recommendations for remediation to bolster cybersecurity defenses.
 
 # Deloitte Australia Cyber Job Simulation on Forage - June 2025
 ---
