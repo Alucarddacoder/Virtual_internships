@@ -33,7 +33,7 @@ These interships are hosted on  [theforage.com](https://www.theforage.com/)
 *	Analyzed a Packet Capture file using an open-source tool to identify and investigate any potential threats
 
 # Datacom Cybersecurity Job Simulation on Forage - June 2025
-
+[Materials](https://github.com/Alucarddacoder/Virtual_internships/tree/main/Datacom%20risk%20assessment)
 ---
 
  * Completed a simulation focussed on how Datacom's cybersecurity team helps
